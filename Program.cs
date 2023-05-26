@@ -18,11 +18,14 @@ namespace Csharp{
             doble[1,1] = 2.2;
             Console.WriteLine(doble[0,1]);
 
-            for (int i = 0; i < 10; i++)
+            string[]name = {"Jeison", "Andres" , "Martinez"};
+            for (int i = 0; i < name.Length; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(name[i]);
             }
-            Console.ReadLine();
+
+        
+            // Console.ReadLine();
         }
     }
     

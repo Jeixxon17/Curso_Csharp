@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeiso\\OneDrive\\Escritorio\\C#\\C#.csproj": {}
+    "C:\\Users\\jeiso\\C#\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeiso\\OneDrive\\Escritorio\\C#\\C#.csproj": {
+    "C:\\Users\\jeiso\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeiso\\OneDrive\\Escritorio\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\jeiso\\C#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\jeiso\\OneDrive\\Escritorio\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\jeiso\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\jeiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeiso\\OneDrive\\Escritorio\\C#\\obj\\",
+        "outputPath": "C:\\Users\\jeiso\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeiso\\AppData\\Roaming\\NuGet\\NuGet.Config"
