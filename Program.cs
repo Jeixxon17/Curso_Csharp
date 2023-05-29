@@ -2,8 +2,8 @@
 
 namespace Csharp{
     class Program{
-        static void Main(string[] args){
-            //int i = 10;
+        private void Main(string[] args){
+            // int i = 10;
             int j = 10;
             string[]cadenas = new string[10];
             cadenas[0] = "Jeison";
@@ -19,12 +19,16 @@ namespace Csharp{
             Console.WriteLine(doble[0,1]);
 
             string[]name = {"Jeison", "Andres" , "Martinez"};
-            for (int i = 0; i < name.Length; i++)
-            {
-                Console.WriteLine(name[i]);
-            }
+            int[]age = {23, 17, 11};
+            // for (int i = 0; i < name.Length; i++)
+            // {
+            //     Console.WriteLine(name[i] + age[i]);
+            // }
 
-        
+            foreach (var item in name)
+            {
+                Console.WriteLine(item);
+            }
             // Console.ReadLine();
         }
     }
