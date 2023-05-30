@@ -2,7 +2,7 @@ using System;
 
 namespace Csharp{
     class Pascal{
-    static void Main(string[] args){
+    private void Main(string[] args){
             // Se declaran dos variables enteras: pisos y arreglo. pisos se utilizará para almacenar el tamaño del triángulo ingresado por el usuario, y arreglo se utiliza para almacenar los números generados en cada iteración del bucle.
             int pisos = 0;
             int[]arreglo = new int[1];

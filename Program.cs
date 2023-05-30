@@ -2,9 +2,9 @@
 
 namespace Csharp{
     class Program{
-        private void Main(string[] args){
+        static void Main(string[] args){
             // int i = 10;
-            int j = 10;
+           /* int j = 10;
             string[]cadenas = new string[10];
             cadenas[0] = "Jeison";
             cadenas[1] = "Martinez";
@@ -29,7 +29,44 @@ namespace Csharp{
             {
                 Console.WriteLine(item);
             }
-            // Console.ReadLine();
+            */
+            /* Switch
+            var data = 0;
+            Console.WriteLine("Ingrese Un Numero");
+            data = Convert.ToInt16(Console.ReadLine());
+            switch (data)
+            {
+                case 1: 
+                    Console.WriteLine("Hola"); 
+                    break;
+                case 2: 
+                    Console.WriteLine("Hol"); 
+                    break;
+                case 3: 
+                    Console.WriteLine("Ho"); 
+                    break;
+                case 4: 
+                    Console.WriteLine("H"); 
+                    break; 
+                default:
+                    Console.Write("Error");
+                    break;
+            }
+
+            var result = data switch
+            {
+                1 => "Hola",
+                2 => "Hol",
+                3 => "Ho"
+            };
+            Console.Write(result);
+            */
+
+            // While
+            while (true)
+            {
+                
+            }
         }
     }
     
